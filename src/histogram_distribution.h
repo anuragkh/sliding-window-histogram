@@ -1,6 +1,7 @@
 #ifndef SLIDING_WINDOW_HISTOGRAM_HISTOGRAM_DISTRIBUTION_H
 #define SLIDING_WINDOW_HISTOGRAM_HISTOGRAM_DISTRIBUTION_H
 
+#include <cstddef>
 #include <vector>
 #include <list>
 
