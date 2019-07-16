@@ -3,6 +3,8 @@
 
 #include <cstddef>
 #include <vector>
+#include <cstring>
+
 #include "zipf_generator.h"
 #include "histogram_distribution.h"
 #include "sliding_window_distribution.h"
